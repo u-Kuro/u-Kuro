@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @u-Kuro
+- 👀 I’m interested in | anime | jazz | crypto
+- 🌱 I’m currently learning | Node.js |
+- 📫 How to reach me | rcdupitas@gmail.com | reavendupitas10@gmail.com |
+
+<!---
+u-Kuro/u-Kuro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
