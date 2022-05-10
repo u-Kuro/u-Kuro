@@ -1,6 +1,6 @@
 - Hi, I’m @u-Kuro
 - I’m interested in | Anime | Jazz | Crypto |
-- I’m currently learning | Node.js |
+- I’m currently learning | Nodejs | Expressjs | Nextjs |
 - How to reach me | rcdupitas@gmail.com | reavendupitas10@gmail.com |
 
 <!---
