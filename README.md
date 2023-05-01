@@ -1,9 +1,17 @@
-- Hi, I’m @u-Kuro
-- I’m interested in Anime, Jazz, and Crypto
-- I’m currently learning Nodejs, Expressjs, Nextjs
-- How to reach me rcdupitas@gmail.com or reavendupitas10@gmail.com
+# Hi there, I'm Reaven Dupitas! 👋
 
-<!---
-u-Kuro/u-Kuro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a computer science student with a passion for web development. I've worked with a variety of technologies, including JavaScript (ES6+, Node.js, Express.js, Next.js, jQuery), MySQL, PHP, and Java.
+
+## Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-Kuro&layout=compact&theme=radical)](https://github.com/u-Kuro)
+
+## 🌱 Technologies I've Worked With
+- Front-end: JavaScript, jQuery, AJAX, Next.js
+- Back-end: Node.js, Express.js, MySQL, PHP
+- Misc: Java
+
+## 📫 Contact Me
+
+- Email: rcdupitas@gmail.com or reavendupitas10@gmail.com
+
