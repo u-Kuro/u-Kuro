@@ -1,6 +1,6 @@
 ## Skills
 
-- Front-end development: Svelte, Vanilla JavaScript, HTML, CSS, jQuery, DOM manipulation.
+- Front-end development: Vanilla JavaScript, HTML, CSS, jQuery, Svelte.
 
 - Server-side development: Node.js, Express.js, MySQL, PHP.
 
