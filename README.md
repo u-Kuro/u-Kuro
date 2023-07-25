@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-Kuro&layout=compact&theme=radical)](https://github.com/u-Kuro)
 
-## Contact Me
+## Contact
 
 If you have any inquiries, feel free to reach out to me:
 
