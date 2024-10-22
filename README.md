@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-Kuro&layout=compact&theme=radical)](https://github.com/u-Kuro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-Kuro&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=f0f6fc&border_color=3d4443&layout=normal&langs_count=100&theme=radical&custom_tittle=‎<+My+Most+Used+Languages+/>)](https://github.com/u-Kuro)
