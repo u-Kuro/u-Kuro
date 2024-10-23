@@ -1,799 +1,1093 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-Kuro&theme=transparent&hide_border=true&dummy_bg_color=0d1117&dummy_title_color=f0f6fc&text_color=f0f6fc&border_color=3d4443&layout=normal&langs_count=100&custom_title=‎</>+Most+Used+Languages+</>&size_weight=0.5&count_weight=0.5&card_width=290&border_radius=6&hide_progress=false)](https://github.com/u-Kuro)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# hell
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
+# hello
