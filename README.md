@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/reaven-dupitas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rcdupitas@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://huggingface.co/u-kuro"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/reaven-dupitas/"><img src="./images/linked-in.svg"/></a>
+  <a href="mailto:rcdupitas@gmail.com"><img src="./images/gmail.svg"/></a>
+  <a href="https://huggingface.co/u-kuro"><img src="./images/hugging-face.svg"/></a>
 </p>
 
 ---
@@ -24,7 +24,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,flask,svelte,js,java,php,docker,git,mysql,github,vscode,jupyter&perline=7" />
+  <img src="./images/skill-icons.svg" />
 </p>
 
 **ML / NLP** · HuggingFace Transformers · BERT · DistilBERT · OpenAI Whisper · spaCy · NLTK  
