@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reaven-dupitas/"><img src="./images/linked-in.svg"/></a>
-  <a href="mailto:rcdupitas@gmail.com"><img src="./images/gmail.svg"/></a>
+  <a href="mailto:dupitas.reaven@gmail.com"><img src="./images/gmail.svg"/></a>
   <a href="https://huggingface.co/u-kuro"><img src="./images/hugging-face.svg"/></a>
 </p>
 
@@ -44,5 +44,5 @@
 ---
 
 <p align="center">
-  <i>Open to work. Feel free to reach out via <a href="mailto:rcdupitas@gmail.com">email</a> or <a href="https://www.linkedin.com/in/reaven-dupitas/">LinkedIn</a></i>
+  <i>Open to work. Feel free to reach out via <a href="mailto:dupitas.reaven@gmail.com">email</a> or <a href="https://www.linkedin.com/in/reaven-dupitas/">LinkedIn</a></i>
 </p>
