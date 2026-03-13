@@ -1,7 +1,7 @@
 <h1 align="center">Reaven Dupitas</h1>
 
 <p align="center">
-  <b>CS Graduate · Seeking Junior ML / NLP Engineer Roles · Philippines or Remote</b><br/>
+  <b>CS Graduate · Open to Junior ML Engineer Roles · Philippines or Remote</b><br/>
   I fine-tune NLP models, build recommendation systems, and get them running in production.
 </p>
 
