@@ -14,9 +14,9 @@
 ---
 
 - 🎓 BS Computer Science, Mapúa University, 2025
-- 🔬 Focus: NLP · Transformer Fine-tuning · Recommendation Systems
+- 🔬 Focus: Machine Learning · Recommendation Systems
 - 💼 Seeking: Junior ML Engineer, Philippines or remote
-- 🌱 Currently learning: transformer internals · FastAPI · MLflow
+- 🌱 Currently learning: FastAPI · MLflow
 - 📍 Pasay, Metro Manila, PH (UTC+08:00)
 
 ---
