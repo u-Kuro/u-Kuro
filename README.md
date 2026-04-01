@@ -38,7 +38,7 @@
 | Project | Description | Links |
 |---|---|---|
 | 🗳️ **Transformer Fine-Tuning Pipeline · Political Sentiment** | Custom ETL pipeline (YouTube → FFmpeg → Whisper → spaCy coreference) extracting 5,745 labeled sentences to fine-tune 8 BERT/DistilBERT variants with weighted cross-entropy loss, achieving 70.84% accuracy on multi-class sentiment. | [Demo](https://u-kuro-sentiment-predictor.hf.space) · [Model](https://huggingface.co/u-kuro/sentiment-model) · [Repo](https://github.com/u-Kuro/Thesis-2024-U.S.-Presidential-Election-Sentiment-Analysis#readme) |
-| 📺 **Kanshi · Browser-Native Recommendation Engine** | Ranks 100K+ anime/manga/novel entries client-side using Web Workers to keep the UI non-blocking, with data persisted in a gzip-compressed IndexedDB layer and weighted preference profiles built from the user's AniList rating history. | [Demo](https://u-kuro.github.io/Kanshi-Anime-Recommender/) · [Repo](https://github.com/u-Kuro/Kanshi-Anime-Recommender#readme) |
+| 📺 **Kanshi · Browser-Native Recommendation Engine** | Ranks 100K+ anime/manga/novel entries client-side using Web Workers to keep the UI non-blocking, with data persisted in a gzip-compressed IndexedDB layer and weighted preference profiles built from the user's AniList rating history. | [Demo](https://kanshi.vercel.app) · [Repo](https://github.com/u-Kuro/Kanshi-Anime-Recommender#readme) |
 | 📈 **Stock & Crypto Momentum Screener · Signal Engine** | Detects trend vs. consolidation via volume-weighted price divergence, ranks assets by momentum return from either trend onset or full lifetime, and is deployed as an Android app with background refresh and real-time push notifications. | [Repo](https://github.com/u-Kuro/Investment#readme) |
 
 ---
