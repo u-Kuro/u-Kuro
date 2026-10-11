@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>CS Graduate · Open to Junior ML Engineer Roles · Philippines or Remote</b><br/>
-  I build ML models, create applications, and get them running in production.
+  I build ML models, create applications, and get them running.
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ---
 
 - 🎓 BS Computer Science, Mapúa University, 2025
-- 🔬 Focus: Machine Learning · Recommendation Systems
+- 🔬 Focus: Machine Learning Applications
 - 💼 Seeking: Junior ML Engineer, Philippines or remote
 - 📍 Pasay, Metro Manila, PH (UTC+08:00)
 
@@ -22,23 +22,41 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="./images/skill-icons.svg" />
-</p>
+---
 
-**ML / NLP** · HuggingFace Transformers · BERT · DistilBERT · OpenAI Whisper · spaCy · NLTK  
-**Data** · Pandas · NumPy · Matplotlib · Seaborn · scikit-learn · GraphQL API · REST API  
-**Deployment** · Docker · Hugging Face Spaces · Vercel · Render
+- **Languages:** Python · JavaScript · SQL  
+- **ML:** Scikit-learn · XGBoost · PyTorch · Hugging Face Transformers · Optuna · spaCy · NLTK · OpenAI Whisper · Pandas · NumPy · Matplotlib  
+- **MLOps:** MLflow · Apache Airflow · Evidently · Docker · Kubernetes · Terraform · GitHub Actions  
+- **Backend / Data:** FastAPI · Flask · PostgreSQL · Pydantic
+- **Web / Deployment:** Svelte · Web Workers · IndexedDB · Hugging Face Spaces · Vercel
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Links |
-|---|---|---|
-| 🗳️ **Political Sentiment Analysis · Thesis** | Custom ETL pipeline (YouTube → FFmpeg → Whisper → spaCy coreference) extracting 5,745 labeled sentences to fine-tune 8 BERT/DistilBERT variants with weighted cross-entropy loss, achieving up to 71.46% F1-score and 70.84% accuracy on multi-class sentiment. | [Demo](https://u-kuro-sentiment-predictor.hf.space) · [Paper](https://dl.acm.org/doi/epdf/10.1145/3779657.3779678) · [Repo](https://github.com/u-Kuro/Thesis-2024-U.S.-Presidential-Election-Sentiment-Analysis#readme) |
-| 📺 **Kanshi · Animanga Recommendation Engine** | Ranks 100K+ anime/manga/novel entries client-side using Web Workers to keep the UI non-blocking, with data persisted in a gzip-compressed IndexedDB layer and weighted preference profiles built from the user's AniList rating history. | [Demo](https://kanshi.vercel.app) · [Repo](https://github.com/u-Kuro/Kanshi-Anime-Recommender#readme) |
-| 📈 **Stock & Crypto Screener** | Detects trend vs. consolidation via volume-weighted price divergence, ranks assets by momentum return from either trend onset or full lifetime, and is deployed as an Android app with background refresh and real-time push notifications. | [Repo](https://github.com/u-Kuro/Investment#readme) |
+---
+
+#### Fraud Detection Platform · MLOps · Solo Project
+
+Monitors a credit-card fraud model for drift and retrains it, promoting new versions only after Slack approvals, running locally in Docker with a single `make up`.
+
+[GitHub](https://github.com/u-Kuro/fraud-detection-platform)
+
+---
+
+#### Political Sentiment Analysis · NLP · Thesis
+
+Fine-tuned BERT and DistilBERT on 2024 U.S. political videos, then checked predictions against voting results in Arizona, Michigan, and Pennsylvania, where they aligned only in Michigan.
+
+[Live Website](https://u-kuro-sentiment-predictor.hf.space) | [Paper](https://dl.acm.org/doi/epdf/10.1145/3779657.3779678) | [Model](https://huggingface.co/u-kuro/sentiment-model) | [GitHub](https://github.com/u-Kuro/Thesis-2024-U.S.-Presidential-Election-Sentiment-Analysis)
+
+---
+
+#### Animanga Recommendation Engine · Recommender Systems · Solo Project
+
+Scores and ranks anime, manga, and novels client-side from a user's AniList ratings, then reports its own average error against those ratings.
+
+[Live Website](https://kanshi.vercel.app) | [GitHub](https://github.com/u-Kuro/Kanshi-Anime-Recommender)
 
 ---
 
