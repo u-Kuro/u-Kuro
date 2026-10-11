@@ -38,7 +38,7 @@
 
 #### Fraud Detection Platform · MLOps · Solo Project
 
-Monitors a credit-card fraud model for drift and retrains it, promoting new versions only after Slack approvals, running locally in Docker with a single `make up`.
+Monitors a credit-card fraud detection model for drift and retrains it, promoting new versions only after Slack approvals, running locally in Docker with a single `make up`.
 
 [GitHub](https://github.com/u-Kuro/fraud-detection-platform)
 
