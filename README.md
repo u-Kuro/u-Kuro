@@ -24,8 +24,8 @@
 
 ---
 
-- **Languages:** Python · JavaScript · SQL  
-- **ML:** Scikit-learn · XGBoost · PyTorch · Hugging Face Transformers · Optuna · spaCy · NLTK · OpenAI Whisper · Pandas · NumPy · Matplotlib  
+- **Languages:** Python · JavaScript · Java · SQL  
+- **ML:** Scikit-learn · XGBoost · PyTorch · Hugging Face Transformers · Optuna · spaCy · NLTK · OpenAI Whisper · Pandas · NumPy · Matplotlib · seaborn · SHAP 
 - **MLOps:** MLflow · Apache Airflow · Evidently · Docker · Kubernetes · Terraform · GitHub Actions  
 - **Backend / Data:** FastAPI · Flask · PostgreSQL · Pydantic
 - **Web / Deployment:** Svelte · Web Workers · IndexedDB · Hugging Face Spaces · Vercel
