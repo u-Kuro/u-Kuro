@@ -1,7 +1,7 @@
 <h1 align="center">Reaven Dupitas</h1>
 
 <p align="center">
-  <b>BSCS Graduate · Open to Junior ML Roles · Philippines or Remote</b><br/>
+  <b>BSCS Fresh Graduate · Open to ML Roles · Philippines or Remote</b><br/>
   I build ML models, create applications, and get them running.
 </p>
 
