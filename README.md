@@ -36,9 +36,17 @@
 
 ---
 
+#### Animanga Recommendation Engine · Recommender Systems · Solo Project
+
+A system that connects to a user's anime tracking account, studies everything they've seen, and produces a personalized ranked list of what to see next across thousands of titles.
+
+[Live Website](https://kanshi.vercel.app) | [GitHub](https://github.com/u-Kuro/Kanshi-Anime-Recommender)
+
+---
+
 #### Fraud Detection Platform · MLOps · Solo Project
 
-Monitors a credit-card fraud detection model for drift and retrains it, promoting new versions only after Slack approvals, running locally in Docker with a single `make up`.
+An end-to-end MLOps platform that monitors a credit-card fraud detection model for drift, trains a replacement when drift is detected, and deploys it only after a person approves each step. The whole cloud setup, including an AWS emulator, a Kubernetes cluster, and CI/CD, runs locally in Docker with a single `make up`.
 
 [GitHub](https://github.com/u-Kuro/fraud-detection-platform)
 
@@ -46,17 +54,9 @@ Monitors a credit-card fraud detection model for drift and retrains it, promotin
 
 #### Political Sentiment Analysis · NLP · Thesis
 
-Fine-tuned BERT and DistilBERT on 2024 U.S. political videos, then checked predictions against voting results in Arizona, Michigan, and Pennsylvania, where they aligned only in Michigan.
+A sentiment analysis system trained on 2024 U.S. political discourse from YouTube videos. Built with BERT and deployed as a Flask web application on Hugging Face Spaces.
 
 [Live Website](https://u-kuro-sentiment-predictor.hf.space) | [Paper](https://dl.acm.org/doi/epdf/10.1145/3779657.3779678) | [Model](https://huggingface.co/u-kuro/sentiment-model) | [GitHub](https://github.com/u-Kuro/Thesis-2024-U.S.-Presidential-Election-Sentiment-Analysis)
-
----
-
-#### Animanga Recommendation Engine · Recommender Systems · Solo Project
-
-Scores and ranks anime, manga, and novels client-side from a user's AniList ratings, then reports its own average error against those ratings.
-
-[Live Website](https://kanshi.vercel.app) | [GitHub](https://github.com/u-Kuro/Kanshi-Anime-Recommender)
 
 ---
 
